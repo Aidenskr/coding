@@ -8,7 +8,7 @@ package com.aiden;
 public class Demo {
 
     public static void main(String[] args) {
-        // 这里没写代码，要看测试代码的话，请找 DemoTest.java 文件
+        // There is no code written here, if you want to see the test code, please look for the DemoTest.java file
     }
 
 }
